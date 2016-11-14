@@ -11,4 +11,4 @@ sum = 0
   end
 end
 
-  puts "The sum of all multiples of 3 and 5 below 1,000 is [" + sum.to_s + "]."
+puts "The sum of all multiples of 3 and 5 below 1,000 is [" + sum.to_s + "]."
